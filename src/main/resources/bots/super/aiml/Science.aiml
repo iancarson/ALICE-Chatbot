@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: Science.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: February 22, 2020 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2020 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>WHO ARE YOU?</pattern>
+<template>I am an Education assistant bot.Do you have anything for me?.</template>
+</category>
+<category><pattern>NO.</pattern>
+<template>Oops i didn't expect that. Now what master planner?.</template>
+</category>
+<category><pattern>SOFTWARE ENGINEERING</pattern>
+<template>Software Requirements gathering, Software analysis and design, software development, Software coding,Software Testing and Implementation. 
+Which field would you like to inquire about?.</template>
+</category>
+<category><pattern>SOFTWARE REQUIREMENTS GATHERING</pattern>
+<template>Fella check up on this site</template>
+</category>
+</aiml>
